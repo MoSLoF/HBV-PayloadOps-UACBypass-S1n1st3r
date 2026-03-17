@@ -37,3 +37,26 @@ The UAC bypass technique is based on [this research](https://0x00-0x00.github.io
 ## Disclaimer
 
 For authorized penetration testing and security research only. Ensure you have explicit written permission before deploying against any system.
+
+
+---
+
+## HoneyBadger Vanguard
+
+**Part of the [HoneyBadger Vanguard (HBV)](https://ihbv.io) purple team ecosystem.**
+
+Bash Bunny UAC bypass loader — HID+Storage attack, Chrome updater DLL preloading. MITRE T1548.002.
+
+```powershell
+$global:Intent = 'Purple'  # Understand offense. Build better defense.
+```
+
+| | |
+|---|---|
+| **Org** | [MoSLoF on GitHub](https://github.com/MoSLoF) |
+| **Platform** | HoneyBadger Vanguard 2.0 |
+| **Demo Target** | CyberShield 2026 - Little Rock, AR |
+| **License** | See LICENSE |
+
+> The difference between a red team tool and a purple team tool is intent.
+> -- $global:Intent = 'Purple'
